@@ -5,7 +5,7 @@
 <h3 align="center">Food Share</h3>
 
 ---
-## Devfolio Project link 🔗 
+## 🔗 Devfolio Project link  
 
 https://devfolio.co/submissions/food-share
 
