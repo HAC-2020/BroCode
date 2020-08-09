@@ -48,7 +48,7 @@ flutter run
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+It can be used by community for helping others.
 
 ## ⛏️ Built With <a name = "tech_stack"></a>
 
